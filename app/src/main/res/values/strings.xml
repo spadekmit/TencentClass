@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="protocal_tip">登录即代表您已经阅读并同意《腾讯课堂服务协议》和《腾讯课堂隐私政策》</string>
+    <string name="login_tip">QQ和微信是两个独立账号，账号不互通</string>
+    <string name="wechat_login">微信登录</string>
+    <string name="qq_login">QQ登录</string>
+    <string name="splash_content">求知若渴，虚心若愚</string>
+</resources>
