@@ -4,5 +4,7 @@
     <string name="login_tip">QQ和微信是两个独立账号，账号不互通</string>
     <string name="wechat_login">微信登录</string>
     <string name="qq_login">QQ登录</string>
-    <string name="splash_content">求知若渴，虚心若愚</string>
+    <string name="splash_content">“求知若渴虚心若愚”</string>
+    <string name="tencent_class">腾讯课堂</string>
+    <string name="image_desc">图片描述</string>
 </resources>
